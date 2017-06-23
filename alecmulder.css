@@ -1,0 +1,116 @@
+p.menu {
+position:absolute;
+top:-14px;
+left:25px;
+word-spacing:30px;
+font-family:'Arial Narrow';
+font-size:18px;
+}
+
+p.contact {
+position:relative;
+top:8px;
+text-align:right;
+margin-right:25px;
+margin-left:350px;
+font-family:'Arial Narrow';
+font-size:14px;
+}
+
+h3 {
+ font-family:'Arial Narrow';
+ display: inline;
+ font-size: 16px;
+}
+
+.worksDescriptions {
+text-align:left;
+font-family:'Arial Narrow';
+font-size:14px;
+word-spacing:0px;
+}
+
+img.worksImages {
+width:263px;
+height:196px;
+padding:6px;
+}
+
+.description {
+ font-family:'Arial Narrow';
+ font-size: 12px;
+ max-height: 10em;
+ overflow: auto;
+ padding:4px;
+ margin-bottom: 4px
+ background-color: #fff;
+}
+
+/* project titles */
+h2 {
+ font-family:'Arial Narrow';
+ display: inline;
+ font-size: 12px;
+}
+
+.thumbNail {
+clear: none;
+ float: left;
+ width: 275px;
+ height:330px;
+ margin: 5px;
+ background-color: #fff;
+ background-image: url('backgroundImage.jpg');
+ }
+ 
+ .series1 {
+ float:left;
+ margin: 10px;
+ }
+ 
+ .myPic {
+clear: none;
+ float: left;
+ margin-right:20px;
+ width:217px; 
+ height:505px;
+ background-color: #fff;
+ }
+ 
+ .thumbNail div {
+ margin: 6px;
+ background-color: #fff;
+}
+
+#wordParticle {
+position:absolute; 
+top:0px;
+padding-top:0px;
+z-index:-1;
+}
+
+a:link {text-decoration:none;color:#000000;}    /* unvisited link */
+a:visited {text-decoration:none;color:#000000;} /* visited link */
+a:hover {text-decoration:underline;color:#FF66BF;}   /* mouse over link */
+a:active {text-decoration:underline;color:#000000;}  /* selected link */
+
+h1 {
+text-align:center;
+font-family:'Arial Narrow';
+}
+
+p {
+text-align:center;
+font-family:'Arial Narrow';
+}
+.processingJS {
+text-align:left;
+font-family:'Arial Narrow';
+}
+
+#picontop {
+position:absolute;
+top:80px;
+padding-left:450px;
+z-index:-2;
+}
